@@ -25,6 +25,7 @@ li {
   list-style: none;
   display: inline;
   padding-right: 15px;
+  padding-top: 10px;
 
 }
 
@@ -37,18 +38,31 @@ li:hover {
     background-color: #33CCCC;
 }
 
+/*width: 100vw;
+height: 100vh;
+background-size: 100% 100%;
+background-repeat: no-repeat;
+position: relative;*/
 
 .row {
 background-image: url("../img/2.png");
 text-align: left;
 background-repeat: no-repeat;
-height: 400px;
+height: 800px;
 background-size: cover;
 background-position: center;
-margin-top: 0
+margin-top: 0px;
 }
 
 #slider{
-  font-size: : 30px;
+  font-size:0px;
   color: white;
+  padding-left: 40px;
+}
+
+.row p {
+  font-size:90px;
+    padding-top: 5%;
+    color: white;
+    padding-left: 10px;
 }
