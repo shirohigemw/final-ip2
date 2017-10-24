@@ -36,3 +36,19 @@ a {
 li:hover {
     background-color: #33CCCC;
 }
+
+
+.row {
+background-image: url("../img/2.png");
+text-align: left;
+background-repeat: no-repeat;
+height: 400px;
+background-size: cover;
+background-position: center;
+margin-top: 0
+}
+
+#slider{
+  font-size: : 30px;
+  color: white;
+}
