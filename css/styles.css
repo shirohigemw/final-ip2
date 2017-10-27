@@ -66,3 +66,12 @@ margin-top: 0px;
     color: white;
     padding-left: 10px;
 }
+
+#whom{
+  background-color: black;
+  color: white;
+  height: 80px;
+  font-size: 20px;
+  text-align: center;
+  padding-top: 0
+}
