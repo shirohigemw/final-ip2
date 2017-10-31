@@ -67,11 +67,36 @@ margin-top: 0px;
     padding-left: 10px;
 }
 
-#whom{
+.row2 {
   background-color: black;
   color: white;
   height: 80px;
-  font-size: 20px;
+
+}
+
+.intro{
   text-align: center;
-  padding-top: 0
+  font-size: 18px;
+}
+
+.pic{
+  background-color: black;
+  height: 300px;
+}
+
+.pic p{
+  color: white;
+  font-size: 90px;
+  text-align: center;
+  padding-top: 4%;
+
+}
+
+.img-circle {
+    border-radius: 50%;
+    height: 2%;
+    width:30%;
+    padding-top: 30px;
+    padding-left: 40px;
+
 }
