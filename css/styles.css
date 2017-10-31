@@ -96,7 +96,38 @@ margin-top: 0px;
     border-radius: 50%;
     height: 2%;
     width:30%;
-    padding-top: 30px;
+    padding-top: 90px;
     padding-left: 40px;
 
+}
+
+.bottom {
+  background-color: black;
+  height: 70px;
+  position: fixed;
+  bottom: 0;
+  left: 0;
+  color: white;
+  width: 100%;
+  text-align: center;
+}
+
+.misc{
+padding-top: 10px;
+  background-color: black;
+  color: white;
+  font-size: 20px;
+
+}
+.circles{
+  min-height: 400px;
+}
+
+
+.bottomblues{
+  background-color:#33CCCC;
+  height: 200px;
+  width: 100%;
+  margin: 0;
+  padding: 0;
 }
